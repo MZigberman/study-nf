@@ -1,1 +1,1 @@
-# control task on development of the code
+# Control task on development of the code
